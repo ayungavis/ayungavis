@@ -10,13 +10,13 @@ Currently I'm focused on building applications with sensible user interfaces and
 
 ####  🔥️ Tech that I used
 
-💻️ Operating System: **Elementary OS**
+💻️ Operating System: **Mac OS**
 
 🎉️ Frontend Dev:
 
-- React (really love it!) ❤️
-- React native (mobile dev purpose)
-- Bootstrap / Material UI (css frameworks that's help me)
+- React / NextJS (really love it!) ❤️
+- React Native (mobile dev purpose)
+- Tailwind / Chakra UI / Material UI (css frameworks that's help me)
 
 ♨️ Backend Dev:
 
