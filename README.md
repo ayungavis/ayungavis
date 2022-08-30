@@ -2,13 +2,11 @@
 
 Hi! 👋️ I'm Wahyu, a software engineer with a background in programming and design. I've enjoyed experiences in web and mobile development especially as a front end developer 💕
 
-
 #### 🥅️ Focus and goal
 
 Currently focus on building applications with sensible user interfaces and good user experiences that help people discover and connect with each other. My mission is to make technology more accessible and enjoyable to the masses, also I love to exploring new technology that have capabilities to accomplish that.
 
-
-####  🔥️ Tech that I used
+#### 🔥️ Tech that I used
 
 💻️ Operating System: **Mac OS**
 
@@ -29,11 +27,7 @@ Currently focus on building applications with sensible user interfaces and good 
 - TypeScript / JavaScript (really love it!) ❤️
 - PHP (my first programming language that I learned)
 
-
 #### 👨‍💻️ Get in touch
 
-- LinkedIn: [https://www.linkedin.com/in/ayungavis](https://www.linkedin.com/in/ayungavis)
-- Twitter: [https://twitter.com/ayungavis](https://twitter.com/ayungavis)
-- Facebook: [https://www.facebook.com/ayungavis](https://www.facebook.com/ayungavis)
-- Instagram: [https://www.instagram.com/ayungavis](https://www.instagram.com/ayungavis)
-- Email: *wahyuadikurniawan@live.com*
+✉️ *wahyuadikurniawan@live.com*
+🌐 [ayungavis.com](http://ayungavis.com)
