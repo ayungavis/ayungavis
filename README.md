@@ -1,15 +1,18 @@
 ![Hi](https://media.giphy.com/media/Wj7lNjMNDxSmc/source.gif)
 
 # Wahyu Kurniawan
-### Hi! I'm Wahyu, a software engineer with a background in programming and design. I've enjoyed experiences in web and mobile development, especially as a front-end developer.
 
-⤷ Focus on building applications with sensible user interfaces and good user experiences that help people discover and connect with each other. My mission is to make technology more accessible and enjoyable to the masses.
+Hi! I'm Wahyu, a software engineer with a background in programming and design. For the past 4 years, I have been a hands-on and adaptable problem solver, collaborating with start-ups, e-commerce businesses, agencies, and consulting firms.
+
+Specialize in front-end development, but also have experience with back-end development and cloud infrastructure.
+
+I am skilled in leading software projects and have the ability to manage, mentor, and hire software engineers.
 
  <a aligh="left" href="https://ayungavis.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:ayungavis@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/ayungavis" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/ayungavis" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-⚐ Based in Surabaya, Indonesia
+⚐ Based in Indonesia 🇮🇩
 
-ϟ Currently building open-source developer community in Indonesia
+ϟ Currently building open-source developer community [@tranityproject](https://github.com/tranityproject)
 
 
 
