@@ -2,7 +2,7 @@
 
 # Wahyu Kurniawan
 
-Hi! I'm Wahyu, a software engineer with a background in programming and design. For the past 5 years, I have been a hands-on and adaptable problem solver, collaborating with start-ups, e-commerce businesses, agencies, and consulting firms.
+Hi! I'm Wahyu, a software engineer with a background in programming and design. For the past 6 years, I have been a hands-on and adaptable problem solver, collaborating with start-ups, e-commerce businesses, agencies, and consulting firms.
 
 Specialize in front-end development, but also have experience with back-end development and cloud infrastructure.
 
