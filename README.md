@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Wahyu 👋</h1>
 
 <p align="center">
-  Software Engineer • Front-End Specialist • Technical Lead
+  Software Engineer • Technical Lead
 </p>
 
 <p align="center">
